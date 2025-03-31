@@ -1,2 +1,2 @@
-# repo-remoto de teste
-esse é meu novo repositório remoto para treinar
+# repo-local de teste
+esse é meu novo repositório local para treinar
